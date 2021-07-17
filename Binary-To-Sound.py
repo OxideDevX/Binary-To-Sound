@@ -1,6 +1,7 @@
+# импортируем библиотеки
 import time
 import winsound
-
+# выполняем преобразование
 binary = input("Binary input: \n")
 for i in binary:
 	if i == "0":
